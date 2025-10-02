@@ -26,7 +26,7 @@ const LandingPage = () => {
             and get
             <img
               src="/logo.png"
-              className="h-14 sm:h-24 lg:h-32"
+              className="h-16 sm:h-24 lg:h-32"
               alt="Hirrd Logo"
             />
           </span>
