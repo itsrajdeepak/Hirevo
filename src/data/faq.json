@@ -1,26 +1,26 @@
 [
   {
-    "question": "What is Hirrd?",
-    "answer": "Hirrd is a Job Portal Application allows companies to post job listings and users to search and apply for jobs. It provides features for both job seekers and employers, with user-friendly interfaces and secure authentication."
+    "question": "What is Hirevo?",
+    "answer": "Hirevo is an online job portal where employers can publish job openings and candidates can explore and apply. It offers features for recruiters and job seekers with a secure and user-friendly experience."
   },
   {
-    "question": "How do I post a job?",
-    "answer": "As an employer, you can post a job by navigating to the 'Post Job' section after logging in. Fill in the job details and submit the form to create a new job listing."
+    "question": "How can I create a job listing?",
+    "answer": "Employers can log in and head to the 'Post a Job' section. After filling in the job details, they can submit the form to publish the listing."
   },
   {
-    "question": "How can I search for jobs?",
-    "answer": "Job seekers can search for jobs by keywords, location, category, and other filters using the search bar on the homepage or the dedicated job search page."
+    "question": "How do I look for available jobs?",
+    "answer": "Job seekers can use the search option to find jobs by keyword, location, category, and other filters either on the homepage or the dedicated search page."
   },
   {
-    "question": "How do I apply for a job?",
-    "answer": "To apply for a job, click on the job listing and follow the application instructions provided. You may need to upload your resume and provide additional information."
+    "question": "What’s the process to apply for a job?",
+    "answer": "To apply, open the job listing and follow the steps provided. This usually involves uploading your resume and completing any additional required details."
   },
   {
-    "question": "Can I save jobs to apply later?",
-    "answer": "Yes, you can save job listings by clicking the 'Save Job' button on the job listing. Saved jobs can be accessed from your profile under the 'Saved Jobs' section."
+    "question": "Can I bookmark jobs and apply later?",
+    "answer": "Yes, jobs can be saved for later by clicking the 'Save Job' button. Saved jobs are available in the 'Saved Jobs' section of your profile."
   },
   {
-    "question": "How do I track my job applications?",
-    "answer": "Job seekers can track the status of their applications from the 'Applications' section in their profile. This section provides updates on the progress of each application."
+    "question": "How can I keep track of my applications?",
+    "answer": "Applicants can view and track the progress of their submissions from the 'Applications' tab in their profile, where status updates for each job are displayed."
   }
 ]

@@ -32,7 +32,7 @@ const LandingPage = () => {
           </span>
         </h1>
         <p className="text-gray-300 sm:mt-4 text-xs sm:text-xl">
-          Explore thousands of job listings or find the perfect candidate
+          Browse countless job opportunities or connect with the right talent
         </p>
       </section>
       <div className="flex gap-6 justify-center">
@@ -68,7 +68,7 @@ const LandingPage = () => {
         </CarouselContent>
       </Carousel>
 
-      <img src="/banner.jpeg" className="w-full" />
+      <img src="/banner.png" className="w-full" />
 
       <section className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Card>
@@ -76,7 +76,7 @@ const LandingPage = () => {
             <CardTitle className="font-bold">For Job Seekers</CardTitle>
           </CardHeader>
           <CardContent>
-            Search and apply for jobs, track applications, and more.
+            Browse openings, apply instantly, and follow your application status.
           </CardContent>
         </Card>
         <Card>
@@ -84,7 +84,7 @@ const LandingPage = () => {
             <CardTitle className="font-bold">For Employers</CardTitle>
           </CardHeader>
           <CardContent>
-            Post jobs, manage applications, and find the best candidates.
+            Share jobs, manage hiring, and recruit the best professionals.
           </CardContent>
         </Card>
       </section>
